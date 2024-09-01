@@ -1,0 +1,143 @@
+*{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 0;
+}
+
+body{
+    height: 100%;
+}
+
+.homebtn{
+    border: 0;
+    height: 75px;
+    width: 75px;
+    border-radius: 30px ;
+}
+
+body{
+    background-color: #252A34;  
+}
+
+.cabin{
+    font-family: "Cabin Sketch", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+.title{
+    display: flex;
+    justify-content: center;
+    align-items: start;
+    height: 20vh;
+    color: #FF2E63;
+}
+
+.reset{
+    display: flex;
+    justify-content: center;
+    align-content: end;
+    height: 10vh;
+}
+
+.questions{
+    height: 30vh;
+}
+
+.input{
+    text-align: center;
+    color: #FF2E63;
+    font-size: 30px;
+    height: 20vh;
+}
+
+.m-10{
+    margin-top: 10px ;
+}
+#answer{
+    height: 30px;
+    border-radius: 10px;
+}
+
+#submit{
+    height: 35px;
+    width: 100px;
+    border-radius: 10px;
+    background-color: green;
+    color:white;
+    font-size: 25px;
+    border: 0;
+}
+
+.randomq{
+    text-align: center;
+    font-size: 120px;
+    color: #08D9D6;
+}
+.subtxt{
+    text-align: center;
+    font-size: 20px;
+    color: lightblue;
+}
+
+body{
+    background-color: #252A34;  
+ }
+ .title{
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     height: 30vh;
+ }
+ .gamename{
+     margin: 0;
+     padding: 0;
+     text-align: center;
+     color: #08D9D6;
+     font-size: 100px;
+ }
+ 
+ .quizoption{
+     display: flex;
+     justify-content: space-around;
+     align-items: center;
+     height: 50vh;
+ }
+ 
+ .quizbtn{
+     height: 200px;
+     width: 200px;
+     border-radius: 50%;
+     font-size: 30px;
+     border:  black solid 10px;
+     background-color: white;
+ }
+ .footer{
+     height: 20vh;
+     display: flex;
+     justify-content: center;
+     align-items: end;
+ }
+ 
+ .copyright{
+     text-align: center;
+     color: #FF2E63;
+     margin-bottom: 20px;
+ }
+ 
+ .lobster{
+     font-family: "Lobster", sans-serif;
+     font-weight: 400;
+     font-style: normal;
+ }
+ 
+ .cabin{
+     font-family: "Cabin Sketch", sans-serif;
+     font-weight: 700;
+     font-style: normal;
+}
+   
+ 
+ 
+
+
